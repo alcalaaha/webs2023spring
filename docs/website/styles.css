@@ -5,7 +5,7 @@ padding-top
   }
 
   .main-nav a {
-    color: #4b8568;         /* dark green */
+    color: #854b85;         /* text */
   }
 
   .main-nav ul {
@@ -18,7 +18,7 @@ padding-top
   }
 
   .main-nav .active {
-    background-color: #4b8568;  /* dark green, same as link color */
+    background-color: #854b6d;  /* box */
   }
 
   .main-nav .active a {
@@ -29,16 +29,17 @@ padding-top
     text-align: center;
 }
 
+body {
+  color: rgb(110, 41, 73);
+}
+
 
   * {
 
     text-align: center;
     
     }
-  
-    body {
-        margin-top: 10px;
-    }
+
 
   section {
     padding: 20px;
